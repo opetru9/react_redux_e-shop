@@ -4,3 +4,4 @@ export const ROUTES = {
     CATEGORY : '/categories/:id',
     PRODUCTS : '/products/:id',
 }
+export default ROUTES
